@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Plano Real Estate Video Blog with Jessica and Brad Maddern</title>
+    <title>DFW Real Estate</title>
     <description>Our mission at The Maddern Team is to be your best resource for Plano real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Maddern Team, your professional Plano Real Estate Agents.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Feb 2020 14:40:46 -0600</pubDate>
-    <lastBuildDate>Mon, 03 Feb 2020 14:40:46 -0600</lastBuildDate>
+    <pubDate>Fri, 07 Feb 2020 10:33:10 -0600</pubDate>
+    <lastBuildDate>Fri, 07 Feb 2020 10:33:10 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
