@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Sitting Down With a Realtor Before Hiring Them
-date:
+date: 2020-02-20 15:38:59
 tags:
 excerpt: >-
   It’s important to sit down with a Realtor and talk with them before hiring
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/maddern-youtube.jpg
 youtube_code: PxPymGnV7Qo
 ---
 
-{% include youtube.html %}<center>It’s important to sit down with a Realtor and talk with them before hiring them.</center>
+{% include youtube.html %}
+
+<center>It&rsquo;s important to sit down with a Realtor and talk with them before hiring them.</center>
+
+&nbsp;
 
 Before hiring a Realtor, it’s important to sit down and talk with them. Make sure they can explain the full buying and selling process from top to bottom.&nbsp;
 
