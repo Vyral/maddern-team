@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/maddern-youtube.jpg
 youtube_code: PxPymGnV7Qo
 ---
 
-{% include youtube.html %}It’s important to sit down with a Realtor and talk with them before hiring them.
+{% include youtube.html %}<center>It’s important to sit down with a Realtor and talk with them before hiring them.</center>
 
 Before hiring a Realtor, it’s important to sit down and talk with them. Make sure they can explain the full buying and selling process from top to bottom.&nbsp;
 
