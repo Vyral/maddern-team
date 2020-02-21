@@ -19,13 +19,15 @@ youtube_code: PxPymGnV7Qo
 
 {% include youtube.html %}
 
-<center>It&rsquo;s important to sit down with a Realtor and talk with them before hiring them.</center>
+<center><em>It&rsquo;s important to sit down with a Realtor and talk with them before hiring them.</em></center>
 
-&nbsp;
+<center>&nbsp;</center>
 
-<center>**[Click Here for Home Value](https://cloudcma.com/api_widget/013e97988b6f1f1dbeb477f9018b8f31/show?post_url=cloudcma.com&amp;source_url=ua)**</center>
+<center><a href="https://cloudcma.com/api_widget/013e97988b6f1f1dbeb477f9018b8f31/show?post_url=cloudcma.com&amp;source_url=ua"><strong>Click Here for Home Value</strong></a></center>
 
-<center>**[Click Here for Home Search](https://themaddernteam.kw.com/search)**</center>
+<center><a href="https://themaddernteam.kw.com/search"><strong>Click Here for Home Search</strong></a></center>
+
+<center>&nbsp;</center>
 
 Make sure any Realtor you meet with can explain the full buying and selling process from top to bottom. Make sure they can explain the full buying and selling process from top to bottom.&nbsp;
 
