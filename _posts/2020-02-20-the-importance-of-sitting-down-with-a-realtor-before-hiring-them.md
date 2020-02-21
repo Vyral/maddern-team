@@ -3,6 +3,7 @@ layout: post
 title: The Importance of Sitting Down With a Realtor Before Hiring Them
 date: 2020-02-20 15:38:00
 tags:
+  - Real Estate
 excerpt: >-
   It’s important to sit down with a Realtor and talk with them before hiring
   them.
@@ -40,5 +41,3 @@ A good agent will know the home sale process and be able to walk you through the
 If you have more questions about what to look for in an agent or would like a free home valuation, don’t hesitate to reach out to us. We'd love to speak with you.&nbsp;
 
 Also, remember that we have a **client event coming up on March 1 at The Container Store from 2 p.m. to 4 p.m.** that will cover all the home organization hacks you need to know. We look forward to seeing you there\!
-
-&nbsp;
