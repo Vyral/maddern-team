@@ -23,9 +23,9 @@ youtube_code: PxPymGnV7Qo
 
 &nbsp;
 
-**[Click Here for Home Value&nbsp;](https://cloudcma.com/api_widget/013e97988b6f1f1dbeb477f9018b8f31/show?post_url=cloudcma.com&amp;source_url=ua)**
+**[Click Here for Home Value](https://cloudcma.com/api_widget/013e97988b6f1f1dbeb477f9018b8f31/show?post_url=cloudcma.com&amp;source_url=ua)**
 
-**[Click Here for Home Search&nbsp;](https://themaddernteam.kw.com/search)**
+**[Click Here for Home Search](https://themaddernteam.kw.com/search)**
 
 Make sure any Realtor you meet with can explain the full buying and selling process from top to bottom. Make sure they can explain the full buying and selling process from top to bottom.&nbsp;
 
