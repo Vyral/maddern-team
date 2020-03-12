@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/maddern-youtube-1.jpg
 youtube_code: dRJrtMY99dg
 ---
 
-{% include youtube.html %}Today we’re sharing some of the fantastic things the new Keller Williams app can do.&nbsp;
+{% include youtube.html %}<center>Today we’re sharing some of the fantastic things the new Keller Williams app can do.&nbsp;</center>
 
 We have something exciting to share with you: the new Keller Williams app\! This app can do so many excellent things. If you’re looking for something exact, you can search by criteria such as school zone, number of bedrooms or bathrooms, zip code, square footage, walkability, pet friendliness, and more. You can also draw your own map and define which area you want to buy in.&nbsp;
 
