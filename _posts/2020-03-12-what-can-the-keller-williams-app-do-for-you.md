@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can the Keller Williams App Do for You?
-date: 2020-03-12 18:40:06
+date: 2020-03-12 18:40:00
 tags:
 excerpt: >-
   Today we’re sharing some of the fantastic things the new Keller Williams app
@@ -29,7 +29,7 @@ We have something exciting to share with you: the new Keller Williams app\! This
 
 Another feature is the ability to set up a “collection” based on what type of home you’re looking for. For example, you can set up collections of modern houses you like, dream homes, properties for a family member, and so on. Also, collections are shareable.&nbsp;
 
-The best part is that you can set up an appointment to see a home or tell us which houses you want an appointment to see right in the app. **There are no extra phone calls, emails, or texts; you’re just a tap away from whatever you want.** Your cell phone is often the remote control of your life, and now you can enjoy real estate easily with it too. We can’t wait for you to check it out, it’s the best app out there to keep up with the real estate market.&nbsp;
+The best part is that you can set up an appointment to see a home or tell us which houses you want an appointment to see right in the app. **There are no extra phone calls, emails, or texts; you’re just a tap away from whatever you want.** Your cell phone is often the remote control of your life, and now you can enjoy real estate easily with it too. We can’t wait for you to check it out — it’s the best app out there to keep up with the real estate market.&nbsp;
 
 [Click here to download the Keller Willaims app\!](https://www.kw.com/download/KW174O5D)
 
